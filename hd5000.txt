@@ -1,0 +1,23 @@
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list: ---------控件---------
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list: V4L2 ID名称和范围
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list: ID09963776 Brightness, 30 to 255
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list: ID09963777 Contrast, 0 to 10
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list: ID09963778 Saturation, 0 to 200
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list: ID09963788 White Balance Temperature, Auto, 0 to 1
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list: ID09963800 Power Line Frequency, 0 to 2
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list:   menu item: Value 0 Disabled
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list:   menu item: Value 1 50 Hz
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list:   menu item: Value 2 60 Hz
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list: ID09963802 White Balance Temperature, 2800 to 10000
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list: ID09963803 Sharpness, 0 to 50
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list: ID09963804 Backlight Compensation, 0 to 10
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list: ID10094849 Exposure, Auto, 0 to 3
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list:   menu item: Value 1 Manual Mode
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list:   menu item: Value 3 Aperture Priority Mode
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list: ID10094850 Exposure (Absolute), 5 to 20000
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list: ID10094856 Pan (Absolute), -201600 to 201600
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list: ID10094857 Tilt (Absolute), -201600 to 201600
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list: ID10094858 Focus (absolute), 0 to 40
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list: ID10094860 Focus, Auto, 0 to 1
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list: ID10094861 Zoom, Absolute, 0 to 10
+[1:ml1] [INF] [VID] [3月 26 23:52:5] v4l2_ctrls_list: --------------------------
