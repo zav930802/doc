@@ -1,0 +1,27 @@
+echo $MSYS2_PATH_TYPE
+inherit
+
+which link.exe
+rm -f /usr/bin/link.exe
+
+which cl.exe
+
+cd C:\FFmpeg-n4.3.2
+
+./configure \
+--prefix='/c/ffmpeg_bin' \
+--disable-x86asm \
+--disable-static \
+--enable-shared \
+--disable-autodetect \
+--disable-doc \
+--disable-htmlpages \
+--disable-manpages \
+--disable-podpages \
+--disable-txtpages \
+--enable-ffmpeg \
+--enable-ffplay \
+--disable-ffprobe \
+--toolchain=msvc
+
+
