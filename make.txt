@@ -1,0 +1,5 @@
+pacman -S make
+move /Y "C:\mypkg\msys2.tar.xz.dir\msys64\usr\bin\link.exe" "C:\mypkg\msys2.tar.xz.dir\msys64\usr\bin\txt.link.exe.txt"
+
+
+
