@@ -1,0 +1,8 @@
+ -DBOOST_INCLUDEDIR=C:\mypkg\boost\include\boost-1_69 -DBOOST_LIBRARYDIR=C:\mypk
+g\boost\lib
+
+1.69
+
+dbus
+
+jing tai jsoncpp
