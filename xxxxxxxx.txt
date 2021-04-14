@@ -1,0 +1,5 @@
+-DBoost_USE_STATIC_LIBS=ON
+--with-date_time --with-regex
+C:\mypkg\boost\lib\libboost_date_time-vc141-mt-x64-1_69.lib
+C:\mypkg\boost\lib\libboost_regex-vc141-mt-x64-1_69.lib
+Crypt32.lib
